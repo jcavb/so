@@ -23,3 +23,5 @@ echo %USERNAME% → Muestra el nombre del usuario actual.
 echo Este es un mensaje > mensaje.txt → Crea un archivo mensaje.txt con ese contenido.
 
 type - muestra el contenido de un archivo de texto.
+
+mkdir: Crea un nuevo directorio o carpeta en el sistema de archivos.
