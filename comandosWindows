@@ -10,3 +10,4 @@ md – Crea una nueva carpeta
 Supongamos que deseas crear una carpeta llamada Proyectos en el directorio actual. El comando sería:
 md Proyectos
 Esto creará una carpeta llamada Proyectos en el directorio en el que estás actualmente.
+type - muestra el contenido de un archivo de texto.
