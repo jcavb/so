@@ -1,0 +1,8 @@
+Comandos de Windows
+cd - cambiar de directorio
+  ejemplos
+    cd directorio
+    cd ..
+dir - para listar los directorios y archivos
+  ejemplos
+    dir
