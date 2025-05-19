@@ -10,4 +10,16 @@ md – Crea una nueva carpeta
 Supongamos que deseas crear una carpeta llamada Proyectos en el directorio actual. El comando sería:
 md Proyectos
 Esto creará una carpeta llamada Proyectos en el directorio en el que estás actualmente.
+
+echo - muestra un mensaje en la consola o controla si se muestran los comandos en un archivo por lotes
+ejemplos
+
+echo Hola mundo
+echo %USERNAME%
+echo Este es un mensaje > mensaje.txt
+
+echo Hola mundo → Muestra "Hola mundo" en la consola.
+echo %USERNAME% → Muestra el nombre del usuario actual.
+echo Este es un mensaje > mensaje.txt → Crea un archivo mensaje.txt con ese contenido.
+
 type - muestra el contenido de un archivo de texto.
