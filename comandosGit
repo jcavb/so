@@ -1,0 +1,5 @@
+Comandos de GIT
+git status
+git add
+git commit -m
+git branch
